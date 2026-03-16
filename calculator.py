@@ -15,4 +15,5 @@ def calculator():
         print("Invalid number input")
 
 if __name__ == "__main__":
+    print("-------Calculator--------")
     calculator()
